@@ -11,12 +11,10 @@ This project implements an Airline Sentiment Analysis system using natural langu
 - **Model Evaluation**: Tests the trained model on new input texts to predict sentiment.
 
 ## Requirements
-To run this project, you need the following libraries:
-- `pandas`
-- `spacy`
-- `spacy-transformers`
-- `numpy`
-- `matplotlib` (optional, for visualization)
+To run this project, you need the various libraries mentioned in requirements.txt, just simply type:
+```code
+pip install -r requirements.txt
+```
 
 You can install the required libraries using pip:
 ```code
